@@ -1,2 +1,3 @@
 # SDEV-140-Final-Project
-The final project Python Files
+
+The final project PYTHON, README, USERMANUL & VALIDATION FILES.
